@@ -15,13 +15,17 @@
 
 ---
 
-### ☁️ About Me
+<p align="center">
+  <img src="./assets/section-about-me.gif" alt="About Me — animated Akatsuki cloud banner" width="100%" />
+</p>
 
 I'm **NitroGear504**, an Informatics Engineering student fascinated by the space between **technology, visual art, and music**. My profile's aesthetic is inspired by **Pain (Yahiko / Deva Path)** from *Naruto*, with his Akatsuki cloak, Rinnegan, and Chibaku Tensei.
 
 I'm still learning and experimenting. My goal is to build worlds, characters, and experiences of my own.
 
-### ⚔️ Paths of Creation
+<p align="center">
+  <img src="./assets/section-paths-of-creation.gif" alt="Paths of Creation — animated crossed Pain chakra receivers" width="100%" />
+</p>
 
 | Path | Interests |
 | :--- | :--- |
@@ -31,7 +35,9 @@ I'm still learning and experimenting. My goal is to build worlds, characters, an
 | 🎤 **Music** | Singing songs across multiple genres, vocal exploration |
 | 💻 **Technology** | Programming, software development, creative tools |
 
-### 🌀 Current Journey
+<p align="center">
+  <img src="./assets/section-current-journey.gif" alt="Current Journey — animated Uzumaki spiral" width="100%" />
+</p>
 
 - 🌱 Growing my programming skills
 - 🎮 Exploring **Unity** and game development
@@ -43,8 +49,6 @@ I'm still learning and experimenting. My goal is to build worlds, characters, an
 
 <div align="center">
 
-  **Observe · Understand · Create · Evolve**
-
-  ☁️
+  <img src="./assets/section-philosophy.gif" alt="Observe · Understand · Create · Evolve — animated Rinnegan header" width="100%" />
 
 </div>
