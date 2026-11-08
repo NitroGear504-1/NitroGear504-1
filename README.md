@@ -1,37 +1,47 @@
-# NitroGear504 | Beyond Reality
 
-> "When reality has its limits, imagination creates another world."
+# ☁️ Prama | The World Shall Know Creation
 
-### 「 Wake Up to Creativity 」
+### 「痛みを知れ」— Know Pain.
 
-🎓 Informatics Engineering Student  
-🏛️ Universitas Lampung | 2026
+> "Through struggle comes understanding.
+> Through imagination comes creation."
 
-A curious soul driven by ambition, imagination, and the desire to create.
-
-Inspired by the philosophy and unwavering determination of **Madara Uchiha**.
-
-I explore the intersection of technology, visual arts, and music — transforming imagination into something real.
+🎓 **Informatics Engineering Student**  
+🏛️ **Universitas Lampung | 2026**
 
 ---
 
-### ⚔️ My Domains
+### ☁️ About Me
+
+A curious mind exploring the boundaries between
+technology, art, imagination, and expression.
+
+Inspired by **Pain (Yahiko)** — his presence,
+determination, and vision of reshaping the world.
+
+I seek to create my own worlds through
+code, creativity, and artistic expression.
+
+---
+
+### ⚔️ Paths of Creation
 
 **🎮 Game Development**
-- Game Design & Development
 - Unity Engine
-- Interactive Experiences
+- Game Design & Development
+- Interactive World Building
 
-**🎨 Digital Arts**
-- Blender & 3D Modeling
+**🧊 3D & Digital Arts**
+- Blender
 - Digital Sculpting
+- 3D Modeling
 - Drawing & Illustration
 - Character Design
 
 **🎤 Music & Expression**
-- Singing Across Multiple Genres  (Metal, Rock, Pop, Old School, Rap, Japanese and Mallow)
+- Multi-genre Singing
 - Vocal Exploration
-- Creative Expression
+- Musical Expression
 
 **💻 Technology**
 - Programming
@@ -40,24 +50,28 @@ I explore the intersection of technology, visual arts, and music — transformin
 
 ---
 
-### 🌑 My Philosophy
+### 🌀 My Philosophy
 
-> "I don't simply dream of different worlds.
-> I aspire to create them."
+> "Understanding begins with experience.
+> Creation begins with imagination."
 
-**Learn. Create. Evolve. Transcend.**
-
----
-
-### ⚡ Current Journey
-
-🌱 Expanding my programming knowledge  
-🎮 Exploring game development with Unity  
-🧊 Developing 3D modeling and sculpting skills  
-🎨 Improving my drawing and character designs  
-🎤 Exploring various musical genres  
+**Observe. Understand. Create. Evolve.**
 
 ---
 
-*「 Beyond the limits of reality. 」* ⚔️
+### 🌑 Current Journey
 
+🎮 Exploring Unity & Game Development  
+🧊 Learning Blender and Digital Sculpting  
+🎨 Improving Drawing & Character Design  
+🎤 Exploring Music Across Genres  
+💻 Expanding My Programming Knowledge  
+
+---
+
+### ☁️ Final Words
+
+**「世界に創造を」**
+*Bring Creation to the World.*
+
+*The world shall know creation.* 🌀
