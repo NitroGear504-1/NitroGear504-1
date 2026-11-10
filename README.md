@@ -2,7 +2,7 @@
 
   <img src="./assets/nitrogear504-banner-60fps.png" alt="NitroGear504 60 FPS banner with Pain (Yahiko) holding a pulsating Chibaku Tensei orb" width="100%" />
 
-  ### ☁️ NitroGear504
+  <img src="./assets/section-username.gif" alt="Centered NitroGear504 title with animated Akatsuki cloud pattern" width="100%" />
 
   *The World Shall Know Pain*
 
