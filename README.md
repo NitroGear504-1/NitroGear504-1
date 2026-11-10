@@ -2,6 +2,8 @@
 
   <img src="./assets/nitrogear504-banner-60fps.png" alt="NitroGear504 60 FPS banner with Pain (Yahiko) holding a pulsating Chibaku Tensei orb" width="100%" />
 
+---
+
   <p align="center">
     <img src="./assets/section-username.gif" alt="Centered NitroGear504 title with animated Akatsuki cloud pattern" width="100%" />
   </p>
